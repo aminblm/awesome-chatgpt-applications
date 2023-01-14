@@ -1,5 +1,7 @@
 # awesome-chatgpt-applications
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 A curated list of interesting and creative applications of ChatGPT in various industries and fields. From language translation to text generation, ChatGPT is a powerful tool that can be used in a wide range of applications. This list includes examples of how ChatGPT is being used in industries such as finance, healthcare, and e-commerce.
 
 ## Contents
